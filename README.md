@@ -13,3 +13,4 @@ List of public repos and useful resources under open licenses
 ## Documentaions:
 ## Localizations:
 [Sublime 3 Localization](https://github.com/igece/sublimetext_spanish)  
+## Libraries:
