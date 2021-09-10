@@ -2,8 +2,9 @@
 List of public repos and useful resources under open licenses
   
 ## Applications:
-[Grammar and vocabulary trainer, 'Spanish exercises'](https://github.com/Areso/Spanish-exercises)  
-[Grammar trainer 'Conjugo'](https://github.com/dkirkby/conjugo)  
+[Grammar and vocabulary trainer, 'Spanish exercises', VanillaJS](https://github.com/Areso/Spanish-exercises)  
+[Grammar trainer 'Conjugo', Python Jypiter](https://github.com/dkirkby/conjugo)  
+[Freeze Spanish Trainer, C#](https://github.com/AKApplicationz/Freeze-Spanish-Trainer)
 ## Dictionaries:
 [Dictionary, English-Spanish](https://github.com/mananoreboton/en-es-en-Dic)  
 [Postgres DB with 600 verbs in 11000 forms](https://github.com/ghidinelli/fred-jehle-spanish-verbs)  
