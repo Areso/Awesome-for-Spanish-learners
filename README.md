@@ -3,7 +3,7 @@ List of public repos and useful resources under open licenses
   
 ## Applications:
 [Grammar and vocabulary trainer, 'Spanish exercises', VanillaJS](https://github.com/Areso/Spanish-exercises)  
-[Grammar trainer 'Conjugo', Jupiter Notebook](https://github.com/dkirkby/conjugo)  
+[Grammar trainer 'Conjugo', Jupyter Notebook](https://github.com/dkirkby/conjugo)  
 [Freeze Spanish Trainer, C#](https://github.com/AKApplicationz/Freeze-Spanish-Trainer)
 [Trainer, JS+Java](https://github.com/fergonco/trainer)  
 [Spanish Trainer App for Android, Java](https://github.com/SabaOrasen/SpanishTrainer)  
@@ -16,7 +16,8 @@ List of public repos and useful resources under open licenses
 [CommandLineVocabTrainer, C++](https://github.com/ma-hei/CommandLineVocabTrainer)  
 [Train Spanish, Ruby](https://github.com/am-dmr/train-spanish)  
 [Spanish Verbs, JavaScipt+CoffeScript](https://github.com/xiphias/spanishverbs)  
-[CB-Vocabulary-Trainer, Python](https://github.com/moettle/CB-Vocabulary-Trainer)
+[Vocabulary Trainer inspired by the Podcast Coffee Break Spanish, Python](https://github.com/moettle/CB-Vocabulary-Trainer)
+[Roberta, Jupyter Notebook](https://github.com/HuHang-koko5/Roberta)  
 ## Dictionaries:
 [Dictionary, English-Spanish](https://github.com/mananoreboton/en-es-en-Dic)  
 [Postgres DB with 600 verbs in 11000 forms](https://github.com/ghidinelli/fred-jehle-spanish-verbs)  
