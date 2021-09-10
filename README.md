@@ -11,7 +11,12 @@ List of public repos and useful resources under open licenses
 [Words Generator, Python](https://github.com/PavloLysytsya/PalabraGenerador)  
 [¡Aprender!, NodeJS](https://github.com/awpala/aprender)  
 [Spanish Verbs](https://github.com/Nexcius/spanish-verbs)  
-
+[Spanish Verb Trainer, Java+JavaScript](https://github.com/Joapfel/SpanishVerbTrainer-Generator)  
+[Espanol Conjugation Trainer, Java](https://github.com/alexw92/Enspanol-ConjugationTrainer)  
+[CommandLineVocabTrainer, C++](https://github.com/ma-hei/CommandLineVocabTrainer)  
+[Train Spanish, Ruby](https://github.com/am-dmr/train-spanish)  
+[Spanish Verbs, JavaScipt+CoffeScript](https://github.com/xiphias/spanishverbs)  
+[CB-Vocabulary-Trainer, Python](https://github.com/moettle/CB-Vocabulary-Trainer)
 ## Dictionaries:
 [Dictionary, English-Spanish](https://github.com/mananoreboton/en-es-en-Dic)  
 [Postgres DB with 600 verbs in 11000 forms](https://github.com/ghidinelli/fred-jehle-spanish-verbs)  
