@@ -2,22 +2,25 @@
 List of public repos and useful resources under open licenses
   
 ## Applications:
-[Grammar and vocabulary trainer, 'Spanish exercises', VanillaJS](https://github.com/Areso/Spanish-exercises)  
-[Grammar trainer 'Conjugo', Jupyter Notebook](https://github.com/dkirkby/conjugo)  
-[Freeze Spanish Trainer, C#](https://github.com/AKApplicationz/Freeze-Spanish-Trainer)
-[Trainer, JS+Java](https://github.com/fergonco/trainer)  
-[Spanish Trainer App for Android, Java](https://github.com/SabaOrasen/SpanishTrainer)  
-[Spanish Trainer, C++](https://github.com/BudgetToaster/SpanishTrainer)  
-[Words Generator, Python](https://github.com/PavloLysytsya/PalabraGenerador)  
-[¡Aprender!, NodeJS](https://github.com/awpala/aprender)  
-[Spanish Verbs](https://github.com/Nexcius/spanish-verbs)  
-[Spanish Verb Trainer, Java+JavaScript](https://github.com/Joapfel/SpanishVerbTrainer-Generator)  
-[Espanol Conjugation Trainer, Java](https://github.com/alexw92/Enspanol-ConjugationTrainer)  
-[CommandLineVocabTrainer, C++](https://github.com/ma-hei/CommandLineVocabTrainer)  
-[Train Spanish, Ruby](https://github.com/am-dmr/train-spanish)  
-[Spanish Verbs, JavaScipt+CoffeScript](https://github.com/xiphias/spanishverbs)  
-[Vocabulary Trainer inspired by the Podcast Coffee Break Spanish, Python](https://github.com/moettle/CB-Vocabulary-Trainer)
-[Roberta, Jupyter Notebook](https://github.com/HuHang-koko5/Roberta)  
+|Name                	  |Link to repo                                         	|Link to try 	|Stack            |Comment     	|
+|---                    |---            	                                      |---         	|---              |---      	  |
+|Spanish exercises   	  |[repo](https://github.com/Areso/Spanish-exercises)   	|   	        |Vanilla JS	      |WIP	        |
+|Conjugo                |[repo](https://github.com/dkirkby/conjugo)             |   	        |Jupyter Notebook	|   	        |
+|Freeze Spanish Trainer |[repo](https://github.com/AKApplicationz/Freeze-Spanish-Trainer)  	| |C#              	|            	|  
+|Trainer                |[repo](https://github.com/fergonco/trainer)            |             |Java, JS         |             |
+|Spanish Trainer App    |[repo](https://github.com/SabaOrasen/SpanishTrainer)   |             |Java             |             |
+|Spanish Trainer        |[repo](https://github.com/BudgetToaster/SpanishTrainer)|             |C++              |             |
+|PalabraGenerator       |[repo](https://github.com/PavloLysytsya/PalabraGenerador)|           |Python           |             |
+|¡Aprender!             |[repo](https://github.com/awpala/aprender)             |             |NodeJS           |             |   
+|Spanish Verbs          |[repo](https://github.com/Nexcius/spanish-verbs)       |             |TypeScript       |             |
+|Spanish Verb Trainer   |[repo](https://github.com/Joapfel/SpanishVerbTrainer-Generator)|     |Java, JS         |             |
+|Espanol Conjugation Trainer|[repo](https://github.com/alexw92/Enspanol-ConjugationTrainer)|  |Java             |             |
+|CommandLineVocabTrainer|[repo](https://github.com/ma-hei/CommandLineVocabTrainer)|           |C++              |             |
+|Train Spanish          |[repo](https://github.com/am-dmr/train-spanish)        |             |Ruby             |             |
+|Spanish Verbs          |[repo](https://github.com/xiphias/spanishverbs)        |             |JS,CoffeeScript  |             |
+|Vocabulary Trainer inspired by the Podcast Coffee Break Spanish|[repo](https://github.com/moettle/CB-Vocabulary-Trainer)||Python|   |             
+|Roberta                |[repo](https://github.com/HuHang-koko5/Roberta)        |             |Jupyter Notebook	|   	        |
+  
 ## Dictionaries:
 [Dictionary, English-Spanish](https://github.com/mananoreboton/en-es-en-Dic)  
 [Postgres DB with 600 verbs in 11000 forms](https://github.com/ghidinelli/fred-jehle-spanish-verbs)  
