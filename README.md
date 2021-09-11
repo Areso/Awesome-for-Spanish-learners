@@ -19,7 +19,6 @@ List of public repos and useful resources under open licenses
 |Train Spanish          |[repo](https://github.com/am-dmr/train-spanish)        |             |Ruby             |             |
 |Spanish Verbs          |[repo](https://github.com/xiphias/spanishverbs)        |             |JS,CoffeeScript  |             |
 |Vocabulary Trainer inspired by the Podcast Coffee Break Spanish|[repo](https://github.com/moettle/CB-Vocabulary-Trainer)||Python|   |             
-|Roberta                |[repo](https://github.com/HuHang-koko5/Roberta)        |             |Jupyter Notebook	|   	        |
   
 ## Dictionaries:
 [Dictionary, English-Spanish](https://github.com/mananoreboton/en-es-en-Dic)  
